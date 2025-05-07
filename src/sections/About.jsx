@@ -74,7 +74,8 @@ const About = () => {
             <div>
               <p className="grid-headtext">My Passion for Coding</p>
               <p className="grid-subtext">
-                To me all learning is meant for application. I love solving complex problems and programming provides me an outlet to explore and solve the ideas and challenges that I come across
+                To me all learning is meant for application. I love solving complex problems and programming provides me an outlet to explore and solve the ideas and challenges that I come across.
+                At the moment, I am an undergraduate at Duke University studying Computer Science and Mathematics.
               </p>
             </div>
           </div>
