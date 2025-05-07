@@ -74,8 +74,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">My Passion for Coding</p>
               <p className="grid-subtext">
-                I love solving problems and building things through code. Programming isn&apos;t just my
-                profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+                To me all learning is meant for application. I love solving complex problems and programming provides me an outlet to explore and solve the ideas and challenges that I come across
               </p>
             </div>
           </div>
